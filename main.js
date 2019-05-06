@@ -108,15 +108,6 @@ switch (health) {
         break
 }
 
-//function definition
-// function greet() {
-//     console.log('Hello from the greet function')
-// }
-//function invocation
-//greet();
-
-
-debugger
 function formalGreet(str) {
     let greet = 'Hello ' + str
     console.log(greet)
